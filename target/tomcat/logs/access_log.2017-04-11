@@ -1,0 +1,2 @@
+127.0.0.1 - - [11/Apr/2017:13:05:12 +0300] "POST /jaxrs-service/hello/jsonBean HTTP/1.1" 404 - http-bio-53720-exec-1 0
+127.0.0.1 - - [11/Apr/2017:13:05:12 +0300] "GET /jaxrs-service/hello/echo/SierraTangoNevada HTTP/1.1" 404 - http-bio-53720-exec-2 0
